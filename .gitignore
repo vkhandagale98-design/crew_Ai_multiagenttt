@@ -1,0 +1,1 @@
+venv/\n.venv/\n__pycache__/\n.pytest_cache/\n.env\n*.py[cod]\nprototype/library.db\noutputs/*\n!outputs/.gitkeep\n
